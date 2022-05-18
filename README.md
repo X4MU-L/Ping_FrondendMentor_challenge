@@ -50,8 +50,7 @@ exeptions on:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [gitHub]([https://your-solution-url.com](https://github.com/X4MU-L/Ping_FrondendMentor_challenge.git))
 
 ## My process
 
@@ -167,6 +166,6 @@ In the course of this project I have come to learn that i seriously needs some d
 
 ## Acknowledgments
 
-Special credits goes to ![MentorTribes](https://www.mentortribes.com/) for their coaching over the past few months.
+Special credits goes to [MentorTribes](https://www.mentortribes.com/) for their coaching over the past few months.
 They have really been instrumental to my **CODING** growth.
 
