@@ -93,7 +93,7 @@ exeptions on:
 The codes below are some of the code i was quite proud of in the course of this Challenge;
 Though i may be proud of them, i look forward to critics on this if you came across this as on overall i'm hoping to improve.
 
-Free free to use the comment section or better still send me an ![Email](mailto:okolisamuel21@gmail.com) with your update version.
+Free free to use the comment section or better still send me an [Email](mailto:okolisamuel21@gmail.com) with your update version.
 
 Thanks in advance.
 
