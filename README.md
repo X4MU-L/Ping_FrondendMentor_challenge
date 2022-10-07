@@ -5,7 +5,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 ## Table of contents
 
 - [Overview](#overview)
-  - [Project Dependencies](#project-dependancies)
+  - [Project Dependencies](#project-dependencies)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
