@@ -5,6 +5,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 ## Table of contents
 
 - [Overview](#overview)
+  - [Project Dependencies](#project-dependancies)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -17,6 +18,13 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
+
+### Project Dependencies
+```
+$ npm install
+$ npm start
+
+```
 
 ### The challenge
 
